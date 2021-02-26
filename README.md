@@ -7,3 +7,17 @@ Earlier they used to check the credit risk of the loan applicants manually by an
 # Objective
 You are required to build a machine learning model that helps you predict the credit risk of the loan applicants.
 
+# Data Description
+There are 20 attributes in the dataset. Some of them are mentioned below:
+* checking_status: Status of the existing checking account
+* duration: Duration in month
+* credit_history: Credit history of the applicant
+* purpose: Purpose of taking the earlier loans
+* employment: Present employment since
+* installment_commitment: Installment rate in percentage of disposable income
+* personal_status: Personal status and sex
+* other_parties: Other debtors/guarantors
+* residence_since: Present residence since
+* other_payment_plans: Other installment plans
+* existing_credits: Number of existing credits at this bank
+* class: The target variable(good, bad)
